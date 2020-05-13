@@ -1,5 +1,12 @@
 # CodeBank 
-### _Place to find solutions for miscellaneous problems_
+### _Place to find solutions for miscellaneous CS problems_
+<br>
+<br>
+
+
+<img src="https://github.com/Ajayvardhanreddy/first-code/blob/master/PinClipart.com_maintenance-clipart_24023.png" 
+width="250" height="200"/>
+
 
 Hey Googlers!
 
@@ -13,5 +20,9 @@ Website link coming soon.
 Untill then - 
 **EAT CODE SLEEP** and :repeat: (I mean, 
 **REPEAT** )
-<img src="https://ibb.co/vxyFjw8" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+
+
+
+---
+
+
